@@ -1,16 +1,16 @@
-## Hi there 👋
+## Bem vindos 👋
+-Meu nome é João Victor
 
-<!--
-**jotave44/jotave44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+-Estou aqui por causa do [Alura](https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou me desenvolvendo na linguagem de JavaScript
+
+-Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+-Voce entra em contato comigo 📫
+
+-00001116591108sp@al.educacao.sp.gov.br
+
+![](https://media.tenor.com/XprpuH1iQNkAAAAM/ronaldo.gif)
+
